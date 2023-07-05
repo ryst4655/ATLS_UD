@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+
+/* form styling */
+
+
+
+#wrapper {
+	width: 60%;
+	margin-left:3%;
+}
+
+div#formcol1 {
+	float:left;	
+	width: 100%;
+   
+}
+label {
+  
+    margin-right: .8em;
+    
+width: 4.2em; /* I made this deliberately wide – come up with your own
+optimal width */
+display: inline-block; /* width will not work for “inline” elements such as
+“label”. Therefore we need to set it to “inline-block” */
+}
+
+#formcol1 li {
+    list-style:none;
+    }
+
+
+/* end of form css */
+	
+div#multchoice{
+
+}
