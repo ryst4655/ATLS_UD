@@ -1,33 +1,23 @@
-<style>
-body {
-  background-color: #fff;
-  color: #333;
-  font: 1em / 1.4 Helvetica Neue, Helvetica, Arial, sans-serif;
-  padding: 1em;
-  margin: 0;
-}
-
-h1 {
-  font-size: 2.2rem;
-  margin: 0;
-}
-
-h2 {
-  font-size: 1.6rem;
-  margin: .25;
-}
-
 h1, h2 {
   color: red;
-}
-
-p {
-  color: green;
-  margin: 0.7em 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-</style>
-</head>
+  }
+  p {
+  color: gray;
+  }
+  ul {
+  border: 2px solid orange;
+  }
+  ol {
+  border: 2px solid purple;
+  }
+  
+  ol, ul {
+  padding: 5px 20px;
+  border-radius: 4px;
+  }
+  h1, strong {
+  color: purple;
+  }
+  em {
+  color: gray;
+  }
